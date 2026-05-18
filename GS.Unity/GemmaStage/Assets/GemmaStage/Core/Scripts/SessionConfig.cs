@@ -44,7 +44,7 @@ namespace GemmaStage.Core
         {
             DisturbanceLevel.Low => 0.15f,
             DisturbanceLevel.Middle => 0.30f,
-            DisturbanceLevel.High => 0.60f,
+            DisturbanceLevel.High => 0.80f,
             _ => 0.30f,
         };
     }

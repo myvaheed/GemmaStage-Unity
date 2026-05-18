@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c637cafb016a9c46a6f1ea9d1b27a0c, type: 3}
+  m_Name: DefaultSlides
+  m_EditorClassIdentifier: GemmaStage.Boards::GemmaStage.Boards.StaticSlideSource
+  slides:
+  - {fileID: 2800000, guid: 746a5f290067aee4198ac7d16f9e10d1, type: 3}
+  - {fileID: 2800000, guid: 79212c6f1ab01374ebaab617d1750459, type: 3}
+  - {fileID: 2800000, guid: cab120ee2736ecd48a32f4a4c84c8abd, type: 3}
+  - {fileID: 2800000, guid: 5efb36cc11250e740943427d9b407194, type: 3}
+  - {fileID: 2800000, guid: f3765f905278f0149b6eff5dd049949a, type: 3}

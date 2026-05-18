@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GemmaStage.Session.csproj" />
+  <Project Path="..\GemmaStage.Session.Tests\GemmaStage.Session.Tests.csproj" />
+  <Project Path="..\GemmaStage.Session.SmokeTest\GemmaStage.Session.SmokeTest.csproj" />
+  <Project Path="..\GemmaStage.Session.PoC\GemmaStage.Session.PoC.csproj" />
+</Solution>

@@ -1,0 +1,12 @@
+{
+    "asset": "efc8d0a4ba2ad64419ff95af3bbf9e7e",
+    "fileName": "019e187b-2399-74c7-8525-7da4f3202878_Preview.png",
+    "prompt": "nature",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash-texture",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": 137114532,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

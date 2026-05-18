@@ -1,0 +1,42 @@
+# Normalize line endings to LF in the repo for all text files.
+# This prevents CRLF/LF churn on Windows where Unity and some editors
+# write CRLF into files that git committed as LF.
+
+* text=auto eol=lf
+
+# Unity text formats
+*.cs        text eol=lf
+*.js        text eol=lf
+*.boo       text eol=lf
+*.shader    text eol=lf
+*.compute   text eol=lf
+*.cginc     text eol=lf
+*.hlsl      text eol=lf
+*.meta      text eol=lf
+*.unity     text eol=lf
+*.prefab    text eol=lf
+*.asset     text eol=lf
+*.asmdef    text eol=lf
+*.asmref    text eol=lf
+*.json      text eol=lf
+*.yaml      text eol=lf
+*.yml       text eol=lf
+*.xml       text eol=lf
+*.txt       text eol=lf
+*.md        text eol=lf
+
+# Binary — never diff or merge
+*.png       binary
+*.jpg       binary
+*.jpeg      binary
+*.gif       binary
+*.bmp       binary
+*.tga       binary
+*.psd       binary
+*.fbx       binary
+*.obj       binary
+*.mp3       binary
+*.wav       binary
+*.ogg       binary
+*.ttf       binary
+*.otf       binary
